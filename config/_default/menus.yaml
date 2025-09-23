@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 1711626f-af77-7dcf-3f8c-fcb1db0b07e3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 54a33052-b242-2c69-0df1-2fbc46c8e670
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 40a53544-6140-0a5f-84b4-db095712b2ef
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 378ddf79-1cbf-87de-bb6e-6670c08c0f36
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
+- identifier: 35c85ba1-1b64-f6bb-ee83-635d4658c51a
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 50
