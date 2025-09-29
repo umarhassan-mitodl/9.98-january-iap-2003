@@ -40,6 +40,7 @@
     "website": "9-98-language-and-mind-january-iap-2003"
   },
   "course_title": "Language and Mind",
+  "hide_download": true,
   "course_description": "This course will address some fundamental questions regarding human language: (1) how language is represented in our minds; (2) how language is acquired by children; (3) how language is processed by adults; (4) the relationship between language and thought; (5) exploring how language is represented and processed using brain imaging methods; and (6) computational modeling of human language acquisition and processing.\n",
   "department_numbers": [
     "9"
@@ -50,6 +51,7 @@
     "content": "8f61cfc6-119d-f51c-f7d3-7d4678a552cf",
     "website": "9-98-language-and-mind-january-iap-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
